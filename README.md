@@ -5,9 +5,9 @@ This repo contains code snippets and scripts that I've created moreso related to
 ## Datbase Administration
 
 ### IndexMaintainence.sql
-*loops over all tables in a specified schema to rebuild or reorganize
-*
-*
+loops over all tables in a specified schema to rebuild or reorganize
+
+
 
 ## DataOps
 
